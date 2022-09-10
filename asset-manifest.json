@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe9c2fcb.css",
-    "main.js": "/static/js/main.89fcd90e.js",
+    "main.css": "/static/css/main.b47f600b.css",
+    "main.js": "/static/js/main.66131019.js",
     "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
     "static/media/aboutBg.png": "/static/media/aboutBg.4248a68353c7acafc3be.png",
     "static/media/bg.png": "/static/media/bg.60b3f6705d6186327ba3.png",
     "static/media/contactBg.png": "/static/media/contactBg.eb04fcb274d5184e4cc8.png",
+    "static/media/TicTacToe.png": "/static/media/TicTacToe.377f5eb0d44cc5ab0421.png",
     "static/media/skillBg.png": "/static/media/skillBg.7a465a5280e8d39487d2.png",
     "static/media/expBg.png": "/static/media/expBg.33cba9189b82dcac7fb7.png",
+    "static/media/workBg.png": "/static/media/workBg.a6d6c7d95a14cc464960.png",
+    "static/media/Suduko.png": "/static/media/Suduko.9758437b020814eb0399.png",
+    "static/media/ConsoleTicTacToe.png": "/static/media/ConsoleTicTacToe.214604b92c9cb5224bcd.png",
     "static/media/Avtar.png": "/static/media/Avtar.1baa105b32333c1c34c4.png",
+    "static/media/ChessGame.png": "/static/media/ChessGame.b05fda65be01da614ad4.png",
+    "static/media/SnakeGame.png": "/static/media/SnakeGame.0cff1c37df9a46ecad0a.png",
+    "static/media/FlappyBird.png": "/static/media/FlappyBird.2bbda220cc52fb8387db.png",
     "index.html": "/index.html",
-    "main.fe9c2fcb.css.map": "/static/css/main.fe9c2fcb.css.map",
-    "main.89fcd90e.js.map": "/static/js/main.89fcd90e.js.map",
+    "main.b47f600b.css.map": "/static/css/main.b47f600b.css.map",
+    "main.66131019.js.map": "/static/js/main.66131019.js.map",
     "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe9c2fcb.css",
-    "static/js/main.89fcd90e.js"
+    "static/css/main.b47f600b.css",
+    "static/js/main.66131019.js"
   ]
 }
